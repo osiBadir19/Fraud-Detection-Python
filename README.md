@@ -1,8 +1,9 @@
+![background image](background.jpeg)
 # Online Payments Fraud Detection with Machine Learning
 Online payment frauds can happen with anyone using any payment system, especially while making payments using a credit card. That is why detecting online payment fraud is very important for credit card companies to ensure that the customers are not getting charged for the products and services they never paid.
 
 ## the plan
-To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. For this, we need a dataset containing information about online payment fraud, so that we can understand what type of transactions lead to fraud. For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
+To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. For this, we need a dataset containing information about online payment fraud, so that we can understand what type of transactions lead to fraud. For this task, I collected a dataset from [Kaggle](https://www.kaggle.com/ealaxi/paysim1/download), which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
 
 ## modules to be used: 
 - numpy
